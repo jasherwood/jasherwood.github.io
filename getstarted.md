@@ -232,29 +232,29 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: red }
 
 .gs-section-01 p {
-     font-size: 30px;
+     font-size: 35px;
 }
+
+</style>
+
+<style>
 
 .gs-section-02 h3 { 
-     color: blue }
-
-.gs-section-02 p {
-     font-size: 20px;
-}
-
-.gs-section-03 h3 { 
-     color: purple }
-
-.gs-section-03 p {
-     font-size: 30px;
-}
-
-.gs-section-04 h3 { 
      color: green }
 
-.gs-section-04 p {
-     font-size: 30px;
+.gs-section-02 p {
+     font-size: 25px;
 }
 
+</style>
+
+<style>
+
+.gs-section-03 h3 { 
+     color: blue }
+
+.gs-section-03 p {
+     font-size: 15px;
+}
 
 </style>
