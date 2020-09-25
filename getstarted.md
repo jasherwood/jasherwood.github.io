@@ -60,9 +60,10 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 ![Installation steps](assets/img/install-steps.gif)
 
 <div class="gs-section-01">
-     <h3>### 1. Fork this project</h3>
-
+<h3>### 1. Fork this project</h3>
+<p>
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
+</p>
 </div>
 
 <div class="gs-section-02">
@@ -72,7 +73,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 </div>
 
 <div class="gs-section-03">
-### 3. Customize your website settings
+     <h3>### 3. Customize your website settings</h3>
 
 Edit the `_config.yml` file to change any settings you want. To edit the file, click on it to view the file and then click on the pencil icon to edit it (watch the video tutorial above if you're confused).  The settings in the file are self-explanatory and I added comments inside the file to help you understand what each setting does. Any line that begins with a hashtag (`#`) is a comment, and the other lines are actual settings.
 
@@ -80,7 +81,7 @@ Note that in the video above I only edited one setting in the `_config.yml` file
 </div>
 
 <div class="gs-section-04">
-### 4. Congratulations! You have a website!
+<h3>### 4. Congratulations! You have a website!</h3>
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
