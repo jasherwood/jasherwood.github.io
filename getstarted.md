@@ -59,6 +59,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+
 <div class="gs-section-01">
      
 <h3> 1. Fork this project </h3>
@@ -238,10 +239,11 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: darkred;
+     font-size=40px;}
 
 .gs-section-01 p {
-     font-size: 35px;
+     font-size: 30px;
 }
 
 </style>
@@ -249,10 +251,10 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-02 h3 { 
-     color: green }
+     color: green; }
 
 .gs-section-02 p {
-     font-size: 25px;
+     font-size: 30px;
 }
 
 </style>
@@ -260,7 +262,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-03 h3 { 
-     color: blue }
+     color: blue; }
 
 .gs-section-03 p {
      font-size: 15px;
