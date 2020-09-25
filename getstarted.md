@@ -59,6 +59,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+
 <div class="gs-section-01">
      
 <h3> 1. Fork this project </h3>
@@ -91,14 +92,14 @@ Note that in the video above I only edited one setting in the '_config.yml' file
 
 </div>
 
-<div class="gs-section-04">
-<h3>### 4. Congratulations! You have a website!</h3>
+<div class="gs-section-03">
+     
+<h3> 4. Congratulations! You have a website! </h3>
 <p>
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 </p>
-</div>
+</div> 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
-
 
 ## The hard way (using ruby gems)
 
@@ -241,10 +242,10 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-     color: red }
+     color: blue }
 
 .gs-section-01 p {
-     font-size: 35px;
+     font-size: 50px;
 }
 
 </style>
@@ -266,6 +267,17 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: blue }
 
 .gs-section-03 p {
+     font-size: 15px;
+}
+
+</style>
+
+<style>
+
+.gs-section-04 h3 { 
+     color: blue }
+
+.gs-section-04 p {
      font-size: 15px;
 }
 
