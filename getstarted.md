@@ -60,7 +60,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 ![Installation steps](assets/img/install-steps.gif)
 
 
-<div class="gs-section-01">
+<div class="gs-section-01" markdown="1">
      
 <h3> 1. Fork this project </h3>
 
@@ -70,7 +70,7 @@ Fork this project by clicking the Fork button at the top right corner of this pa
 
 </div>     
 
-<div class="gs-section-02">
+<div class="gs-section-02" markdown="1">
      
 <h3> 2. Rename the project to 'yourusername.github.io' </h3>
 
@@ -80,7 +80,7 @@ Click on Settings at the top (the cog icon) and on that page you'll have an opti
 
 </div>
 
-<div class="gs-section-03">
+<div class="gs-section-03" markdown="1">
      
 <h3> 3. Customize your website settings </h3>
 
