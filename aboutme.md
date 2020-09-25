@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'd prefer to be outside with my pups
 ---
-
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Professionally, I'm a scientist formally trained in multiple disciplines. In addition to my geospatial experience, I've spent time both in a cancer research laboratory and doing field research studying butterflies in the Tetons. I have Master of Science degrees: one in Genetics, the other in Ecology and Evolutionary Biology, both from Iowa State University. When not geeking out over GIS data, I can be found hiking the beautiful Arizona landscapes and hanging with my two crazy Border Collie-ish dogs, Oskar and Mazy.
+
